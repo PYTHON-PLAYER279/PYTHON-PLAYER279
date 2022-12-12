@@ -3,7 +3,7 @@
 <H1>HI I'M <a href="https://github.com/PYTHON-PLAYER279">PYTHON PLAYER 279<a></H1>
 
   <H3  > MY NAME IS OSHAN DILMINA</H3>
-  <H3  > FAVOURITE PROGRAMMING LANGUAGE : PYTHON🐍</H3>
+  <H3  > FAVOURITE PROGRAMMING LANGUAGE : PYTHON🐍<img src="https://img.shields.io/badge/🐍-Python-brightgreen"/></H3>
   <H3  > FAVOURITE COLOUR : BLUE🔵</H3>
   <H3  > LEARNING WEB DEVOLOPING🌐</H3>
 
