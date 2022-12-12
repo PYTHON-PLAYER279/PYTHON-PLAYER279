@@ -4,8 +4,8 @@
 
   <H3  > MY NAME IS OSHAN DILMINA</H3>
   <H3  > FAVOURITE PROGRAMMING LANGUAGE : <img src="https://img.shields.io/badge/🐍-Python-brightgreen"/></H3>
-  <H3  > FAVOURITE COLOUR : BLUE🔵</H3>
-  <H3  > LEARNING WEB DEVOLOPING🌐</H3>
+  <H3  > FAVOURITE COLOUR : <img src="https://img.shields.io/badge/🔵-BLUE-blue"/></H3>
+  <H3  > LEARNING WEB DEVOLOPING🌐<img src="https://img.shields.io/badge/🌐-WebDeveloping-yellowgreen"/></H3>
 
   <br>
   
