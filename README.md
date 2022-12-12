@@ -16,6 +16,6 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PYTHON-PLAYER279&show_icons=true&theme=transparent)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PYTHON-PLAYER279&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PYTHON-PLAYER279&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  
   
   <H1>GOOD BYE! 👋</H1>
